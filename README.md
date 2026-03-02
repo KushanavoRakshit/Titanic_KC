@@ -13,7 +13,7 @@ This project builds a **predictive machine learning model** to answer:
 
 Train a binary classifier on labeled passenger data to predict survival (`0 = Did not survive`, `1 = Survived`) for unseen test records.
 **Evaluation Metric:** Accuracy (percentage of correctly predicted passengers)
-( Future plan : Do Benchmark Analysis against different models
+( Future plan : Do Benchmark Analysis against different models )
 ## 📁 Dataset
 
 | File | Description |
@@ -71,7 +71,7 @@ Models evaluated:
 - Support Vector Machine
 - K-Nearest Neighbors
 
-Hyperparameter tuning via **GridSearchCV** with 5-fold cross-validation ( Future Plan )
+Hyperparameter tuning via **GridSearchCV** with 5-fold cross-validation
 
 ## 📊 Results
 
