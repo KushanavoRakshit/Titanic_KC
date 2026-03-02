@@ -82,11 +82,12 @@ Hyperparameter tuning via **GridSearchCV** with 5-fold cross-validation ( Future
 | Random Forest | **~97.98%** |
 | XGBoost | ~ will do |
 
-> Final submission used the **Random Forest** model with tuned hyperparameters.
+> Final submission used the **Random Forest** model.
+
 
 ## 🗂️ Project Structure
-----
 
+```
 titanic/
 │
 ├── data/
@@ -111,6 +112,7 @@ titanic/
 └── README.md
 ```
 
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -187,5 +189,6 @@ Civil Engineering | IIEST Shibpur
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com)
 
+----
 
 *"It is not the ship so much as the skillful sailing that assures the prosperous voyage."* — George William Curtis
