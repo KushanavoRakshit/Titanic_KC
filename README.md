@@ -100,9 +100,9 @@ titanic/
 │   ├── titanic-kc.ipynb
 │   ├── titanic2-kc.ipynb
 │   └── titanic3-kc.ipynb
-    ├── titanic4-kc.ipynb
-    ├── titanic5-kc.ipynb
-    ├── titanic6-kc.ipynb
+|   ├── titanic4-kc.ipynb
+|   ├── titanic5-kc.ipynb
+|   ├── titanic6-kc.ipynb
 │
 ├── src/
 │   ├── preprocess.py
