@@ -97,9 +97,12 @@ titanic/
 │   └── gender_submission.csv
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   └── 03_Modeling.ipynb
+│   ├── titanic-kc.ipynb
+│   ├── titanic2-kc.ipynb
+│   └── titanic3-kc.ipynb
+    ├── titanic4-kc.ipynb
+    ├── titanic5-kc.ipynb
+    ├── titanic6-kc.ipynb
 │
 ├── src/
 │   ├── preprocess.py
@@ -137,11 +140,11 @@ jupyter
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/titanic-kaggle.git
+git clone https://github.com/KushanavoRakshit/titanic-kaggle.git
 cd titanic-kaggle
 
 # Launch notebooks
-jupyter notebook notebooks/01_EDA.ipynb
+jupyter notebook notebooks/titanic-kc.ipynb
 
 # Or run the full pipeline
 python src/model.py
